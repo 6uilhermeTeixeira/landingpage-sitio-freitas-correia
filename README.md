@@ -1,17 +1,17 @@
 # Sítio Freitas Correia
 
-Landing page de apresentação preliminar para venda de um terreno rural. Desenvolvida em React + Vite, com layout responsivo e foco em narrativa visual.
+Landing page de apresentação comercial para venda de terreno residencial em Cotia/SP. Desenvolvida em React + Vite, com layout responsivo e foco em narrativa visual.
 
 ## Conteúdo atual
 
-- Hero com imagem aérea conceitual e animação de aproximação.
-- Vista superior com recorte animado meramente ilustrativo.
-- Seções de acesso, descrição técnica e captação de interesse.
-- Três imagens geradas por IA, identificadas no site como ilustrativas.
+- Fotos reais do terreno, acesso e paisagem selecionadas do material de origem.
+- Vista superior conceitual com recorte animado explicitamente identificado como ilustrativo.
+- Seções de localização, descrição técnica e captação de interesse.
+- Dossiê técnico original em `Descricao Tecnica Terreno Cotia.pdf`.
 
 ## Descrição técnica preliminar
 
-O imóvel é apresentado como terreno rural/sítio, com potencial sujeito à confirmação de área, topografia, acessos, infraestrutura, legislação local e documentação. Nenhuma metragem, coordenada, divisa ou benfeitoria foi declarada sem fonte oficial.
+Terreno residencial de 30.700 m², com 200 m de testada, na Via das Magnólias, 1520, Jardim Colibri, Cotia/SP. O material de origem indica acesso asfaltado, água, esgoto, energia elétrica, rio nos fundos e casa de apoio. A projeção de até 33 lotes de 500 m² é uma referência comercial e exige validação legal, urbanística e documental.
 
 ## Desenvolvimento
 
@@ -28,4 +28,4 @@ npm run build
 
 ## Próxima etapa recomendada
 
-Substituir os assets ilustrativos por fotos reais, imagem de drone ou mapa autorizado; adicionar recorte da matrícula/levantamento e os dados comerciais validados.
+Adicionar imagem de drone ou mapa autorizado; substituir o recorte ilustrativo pelo levantamento/matrícula e inserir os canais de contato comerciais validados.
